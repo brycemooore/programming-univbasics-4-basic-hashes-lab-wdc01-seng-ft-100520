@@ -1,5 +1,5 @@
 def new_hash
-  empy_hash = hash.new_hash
+  empty_hash.new_hash
   # return an empty hash
 end
 
