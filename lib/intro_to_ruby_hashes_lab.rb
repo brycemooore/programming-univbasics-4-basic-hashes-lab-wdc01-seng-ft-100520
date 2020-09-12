@@ -9,14 +9,14 @@ def my_hash
 end
 
 def pioneer
-  my_hash => {
+  my_hash = {
     :name => 'Grace Hopper'
   }
 end
 
 
 def id_hash_generator(number)
-  my_hash => {
+  my_hash = {
     :id => number
   }
 end
